@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OtpPinViewAndroid</string>
+    <string name="one_time_password_otp">enter one time password</string>
+    <string name="resend_otp_in_secs">Resend OTP</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend_otp_in">Resend OTP in %d secs</string>
+</resources>
